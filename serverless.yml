@@ -23,11 +23,12 @@ provider:
 custom:
   package: lab4
   discovery:
-    username: YOUR_USERNAME
-    password: YOUR_DISCOVERY_PASSWORD
-    environmentId: ENVIRONMENT_ID
-    collectionId: COLLECTION_ID
-    url: YOUR_DISCOVERY_URL
+    username: apikey
+    password: 4iQadDNxANQdcJEhOTXaa9O02GCxXkI6mkstxfYHcA-D
+    environmentId: a31bdb5b-8355-4d94-92dd-e5ad09b0f50e
+    collectionId: 9073a137-f0d6-4aa6-9a16-11df03847bb4
+ 
+    url: https://api.eu-gb.discovery.watson.cloud.ibm.com/instances/0cedd340-4b80-41f2-bf40-5c276ec8e784
     intent: course_recommendation # DO NOT CHANGE
 
 resources:

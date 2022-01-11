@@ -12,7 +12,7 @@
     "discovery"
   ],
   "devDependencies": {
-    "serverless-openwhisk": ">=0.13.0"
+    "serverless-openwhisk": "^0.18.4"
   },
   "dependencies": {
     "ibm-watson": "^4.1.3"
